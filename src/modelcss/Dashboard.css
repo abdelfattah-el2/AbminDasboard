@@ -1,0 +1,8 @@
+/* the grid */
+
+@media (max-width: 871px) {
+    .revenune-span{
+        grid-column: span 1 !important ;
+    
+    }
+}
